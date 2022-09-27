@@ -1,0 +1,16 @@
+BEGIN
+Create Directory
+Star Git Initialize
+Create Branches
+Checkout to Feature Branch
+Create code in Feature Branch
+Touch “File Name”
+Stage “File Name”
+Commit “File Name”
+Checkout to Devlop Branch
+Merge Feature Branch
+Checkout to Release Branch (25th of every Month)
+Merge Devlop Branch
+Checkout to Master
+Merge Release Branch
+END
