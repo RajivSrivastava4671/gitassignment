@@ -1,4 +1,4 @@
-BEGIN
+BEGIN,,,,,
 Create Directory
 Star Git Initialize
 Create Branches
